@@ -1,0 +1,5 @@
+sunny,85,85,false,no
+sunny,80,90,true,yes
+sunny,65,85,false,no
+sunny,0,90,true,maybe
+rainy,26,76,true,
